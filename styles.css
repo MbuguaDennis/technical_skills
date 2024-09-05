@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    font-weight: 700;
+    text-transform: capitalize;
+    font-style: bold;
+    text-align: center;
+} 
+p{
+    line-height: 1.3;
+}
